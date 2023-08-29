@@ -3,7 +3,7 @@ import sys
 from Functions import *
 
 
-def processing(ROI_NOT, flag):
+def processing(ROI_NOT):
 
     global images_to_analyze
     images_to_analyze = list()
@@ -15,6 +15,7 @@ def processing(ROI_NOT, flag):
         if ROI_NOT == 'Y' or ROI_NOT == 'y':
             images_to_analyze = processed_img
         elif ROI_NOT == 'N' or ROI_NOT == 'n':
+            flag = True if input('\nSelecione D para Default or C para ROI Personalizado: ') == 'D' else False
             images_to_analyze = ROI(processed_img, flag)
     else:
         print('\nErro: Selecione a combinação certa!')
