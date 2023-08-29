@@ -1,6 +1,6 @@
 # Nome do Projeto: COBRA (Congo-Brasil)
 # Áreas de estudo: Processamento de Sinais (Imagens), Tratamento de Materias (Metalurgia)
-# Tipo de Projeto: OpenSource mas com foco CEFET-RJ (Maracanã)
+# Tipo de Projeto: OpenSource com foco CEFET-RJ (Maracanã)
 # Repositório do Projeto: https://github.com/james988/Cobra_EstudoDeMateriais
 # Ingenheiros Fundadores do Projeto: Carlos Eduardo Guedes Catunda e Jacques Ben Bilombe 
 
