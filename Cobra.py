@@ -10,7 +10,7 @@ def main():
     # Ask the user if He/She wants extract a ROI or to analyze the entire Image.
     ROI_NOT = input('Escolha a processo de análise: Y/y para imagem inteira ou N/n para selecionar uma parte: ')
 
-    processing(ROI_NOT, flag)
+    processing(ROI_NOT)
 
 
 if __name__ == '__main__':
