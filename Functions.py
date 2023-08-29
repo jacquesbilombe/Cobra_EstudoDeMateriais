@@ -143,7 +143,7 @@ def material_teor(images_to_analyze, image_names):
     print(f"Teor de carbono na imagem é {content}\n")
     '''
 
-  new_file_name = input("Enter the new file name: ")
+  new_file_name = input("Entre com o nome do arquivo: ")
 
   #csv_writer.close()
 
