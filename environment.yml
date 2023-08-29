@@ -1,0 +1,10 @@
+name: cobra
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python=3.10
+    - pip
+    - jupyter
+    - pip:
+      - -r requirements.txt
