@@ -31,7 +31,7 @@ O Projeto Cobra é um algoritmo de processamento de imagens que realiza a extra�
 ### **1. Abra o shell e clone este repositótio**
 
 ```bash
-git clone https://github.com/james988/Cobra_EstudoDeMateriais.git
+git clone https://github.com/jacquesbilombe/Cobra_EstudoDeMateriais.git
 ```
 
 ### **2. Criar o ambiente Cobra.**
